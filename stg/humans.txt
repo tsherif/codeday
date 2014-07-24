@@ -1,0 +1,35 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Ryan Bannon -- Design & illustration -- https://twitter.com/RdBannon
+    Maciej Jasiobedzki -- Code, animations & interactions -- https://twitter.com/mwychwood
+
+# INSPIRATION 
+
+    Heather Payne & the ladies learning code 
+
+# TECHNOLOGY COLOPHON
+
+    SVG
+
+    Jade: http://jade-lang.com/
+
+    Stylus: http://learnboost.github.io/stylus/
+
+    Docpad: http://docpad.org/
+
+    require.js: http://requirejs.org/
+
+    Backbone: http://backbonejs.org/
+
+    underscore: http://underscorejs.org/
+
+    requestAnimationFrame
+
+    jQuery: http://jquery.com/
+
+    color.js: https://github.com/brehaut/color-js
+
+    Vim

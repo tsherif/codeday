@@ -1,0 +1,27 @@
+<?xml version="1.0"?><svg width="533.3333333333333" height="533.3333333333333" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title>banana</title>
+ <defs>
+  <linearGradient id="linearGradient855">
+   <stop stop-color="#ffffff" stop-opacity="0" offset="0" id="stop856"/>
+   <stop stop-color="#5f0e00" stop-opacity="0.416667" offset="1" id="stop857"/>
+  </linearGradient>
+  <linearGradient id="linearGradient829">
+   <stop stop-color="#ffffff" stop-opacity="0.525" offset="0" id="stop830"/>
+   <stop stop-color="#ffffff" stop-opacity="0" offset="1" id="stop831"/>
+  </linearGradient>
+  <radialGradient xlink:href="#linearGradient829" id="radialGradient832"/>
+  <linearGradient y2="-0.220339" y1="0.432203" xlink:href="#linearGradient829" x2="1.25" x1="0.150735" id="linearGradient850"/>
+  <linearGradient y2="0.5" y1="0.5" xlink:href="#linearGradient855" x2="1" x1="0" id="linearGradient854"/>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <g transform="rotate(-21.6755 270.375 271.25)" id="g845">
+   <path fill="#ffe200" fill-rule="evenodd" stroke="#000000" stroke-width="10" stroke-linejoin="round" id="path847" d="m405.304352,98.869598c-18.827362,-18.009895 31.378937,-30.8741 37.654694,-24.441994c10.04126,5.145683 -8.786072,9.004944 -7.530914,18.009888c1.255157,9.004951 0,56.602516 10.041229,59.175362c10.04126,2.572845 22.592834,11.577789 22.592834,24.442001c31.378937,79.758072 -91.626434,298.449631 -382.82283,189.103867c-5.02063,-3.859253 -32.634079,-36.019775 -37.654709,-43.738312c-2.510311,-9.004944 -6.275784,-30.874084 8.786102,-38.592621c129.281143,-34.733368 278.644806,33.44693 346.423279,-122.209991c11.296417,-27.014847 2.510315,-61.748199 2.510315,-61.748199z"/>
+   <path fill="url(#linearGradient850)" fill-rule="evenodd" stroke-width="1.0000000pt" id="path849" d="m58.881073,300.837677l2.510307,-12.864197c92.881599,-36.019806 264.838081,39.879028 347.678444,-123.496414c-41.420166,115.777878 -114.219269,186.531021 -350.188751,136.360611z"/>
+   <path fill="#442400" fill-rule="evenodd" stroke-width="1.0000000pt" id="path851" d="m402.69632,94.121429c2.926666,-18.113197 29.232513,-18.599907 36.595001,-19.496643c12.034668,1.611954 -15.550537,22.069489 -36.595001,19.496643z"/>
+   <path fill="#442400" fill-rule="evenodd" stroke-width="1.0000000pt" id="path852" d="m47.602249,316.420044c-0.936539,-18.90506 -1.873077,-25.139984 8.779984,-31.374878c4.635834,7.126953 3.765457,29.196442 -8.779984,31.374878z"/>
+   <path fill="url(#linearGradient854)" fill-rule="evenodd" stroke-width="1.0000000pt" id="path853" d="m149.25235,379.309357c219.652466,56.602509 294.199158,-85.543884 307.513428,-119.637146c22.592834,-41.165482 8.786102,-87.476624 8.786102,-87.476624c-1.255157,138.933472 -143.087891,250.852081 -316.29953,207.11377z"/>
+  </g>
+  <text transform="matrix(20.4 0 0 1 -5451.4 0)" xml:space="preserve" text-anchor="middle" font-family="Arial" font-size="24" id="svg_1" y="414.666687" x="288.666687" stroke-width="0" stroke="#000000" fill="#000000"/>
+ </g>
+</svg>
